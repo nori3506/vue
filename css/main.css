@@ -4,4 +4,5 @@
 
 #app li > span.done {
   text-decoration: line-through;
+  color: red;
 }
